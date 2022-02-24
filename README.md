@@ -1,4 +1,4 @@
-# ☀️ Bom dia a Todos ☀️
+# <img src="https://github.com/bruno-ruotolo/bruno-ruotolo/blob/main/sungif.gif" width="30px"> Bom dia a Todos <img src="https://github.com/bruno-ruotolo/bruno-ruotolo/blob/main/sungif.gif" width="30px">
 
 ## ⌨️ Um Pouco Sobre Mim
 - 💻 Estudante do bootcamp Desenvolvimento Web Full-Stack na [Driven](https://www.driven.com.br).

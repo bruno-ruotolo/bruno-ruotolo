@@ -1,7 +1,7 @@
 # <img width="55" src="https://github.com/bruno-ruotolo/bruno-ruotolo/blob/main/sungif.gif" width="30px"> Good Morning <img width="55" src="https://github.com/bruno-ruotolo/bruno-ruotolo/blob/main/sungif.gif" width="30px">
 
 ## ⌨️ A Little Bit About Me
-- 💻 Currently Studying Full-Stack Web Development at [Driven](https://www.driven.com.br).
+- 💻 Full-Stack Web Developer
 - 🌟 Always Trying to Better Myself.
 - 🕹️ Technology and Game Lover. 
 - 😄 Pronouns: He/Him - Ele/Dele

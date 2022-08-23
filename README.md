@@ -8,7 +8,7 @@
 
 ## 📱 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-brunoaruotolo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:brunoaruotolo@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-brunoamaralruotolo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-ruotolo/)](https://www.linkedin.com/in/bruno-amaral-ruotolo-295876186/)
+[![Linkedin Badge](https://img.shields.io/badge/-brunoruotolo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-ruotolo/)](https://www.linkedin.com/in/bruno-amaral-ruotolo-295876186/)
 
 ---
 

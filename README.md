@@ -25,6 +25,12 @@
   <img alt="PostgresSQL Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img alt="Redis Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
   <img alt="PostgresSQL Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img alt="Webpack Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  <img alt="Express Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Rest Logo" align="center" height="50" src="https://driveneducation.zendesk.com/hc/article_attachments/4408960959501/img.png" />
+  <img alt="Git Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />   
+  <img alt="NPM Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />      
 </div>
 
 ---

@@ -13,7 +13,7 @@
 ---
 
 ## 🤖 Technologies
-<div style="display: inline_block"/> 
+<div/> 
   <br>
   <img alt="HTML5 Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -31,8 +31,8 @@
   <img alt="Rest Logo" align="center" height="50" src="https://driveneducation.zendesk.com/hc/article_attachments/4408960959501/img.png" />
   <img alt="Git Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />   
-  <img alt="NPM Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />   
- 
+  <img alt="NPM Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> 
+  <img alt="GameMaker Logo" align="center" height="50" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1658484740" />  
 </div>
 
 ---

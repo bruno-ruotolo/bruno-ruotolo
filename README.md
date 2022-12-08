@@ -37,7 +37,7 @@
 
 ---
 
-## 📈 GitHub Statistics
+<!-- ## 📈 GitHub Statistics -->
 <!-- <div>
     <a href="https://github.com/bruno-ruotolo">
     <img alt="bruno-ruotolo's GitHub Stats" height= "200" width="49.7%" src="https://github-readme-stats.vercel.app/api?username=bruno-ruotolo&theme=radical&show_icons=true&include_all_commits=true">

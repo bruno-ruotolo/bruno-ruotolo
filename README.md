@@ -38,10 +38,10 @@
 ---
 
 ## 📈 GitHub Statistics
-<div>
+<!-- <div>
     <a href="https://github.com/bruno-ruotolo">
     <img alt="bruno-ruotolo's GitHub Stats" height= "200" width="49.7%" src="https://github-readme-stats.vercel.app/api?username=bruno-ruotolo&theme=radical&show_icons=true&include_all_commits=true">
      <img alt="bruno-ruotolo's Langs Stats"  height= "200" width="49.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ruotolo&theme=radical&layout=compact"/>
 </div>
-  
-[![bruno-ruotolo's github activity graph](https://activity-graph.herokuapp.com/graph?username=bruno-ruotolo&theme=dracula&color=9FEFE9&bg_color=141321&line=D83A7C&point=E8CA43)](https://github.com/bruno-ruotolo/github-readme-activity-graph)
+   -->
+<!-- [![bruno-ruotolo's github activity graph](https://activity-graph.herokuapp.com/graph?username=bruno-ruotolo&theme=dracula&color=9FEFE9&bg_color=141321&line=D83A7C&point=E8CA43)](https://github.com/bruno-ruotolo/github-readme-activity-graph) -->
